@@ -9,3 +9,16 @@ var config = {
 };
 firebase.initializeApp(config);
 
+// TO DO :
+// CREATE GAME FUNCTION THAT ALLOWS USER TO NAME GAME AND MAKES THEM "GAME MASTER" WHICH SHOWS SCORING BUTTONS
+// JOIN GAME FUNCTION THAT QUERIES CURRENT GAMES AND PLAYERS 
+
+
+
+function createGame(){
+
+}//end createGame
+function joinGame(){
+
+}//end joinGame
+
